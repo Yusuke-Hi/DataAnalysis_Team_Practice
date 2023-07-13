@@ -3,5 +3,9 @@ pandas
 matplotlib
 seaborn
 scikit-learn
+<<<<<<< HEAD
 jupyterlab
 plotly
+=======
+jupyterlab
+>>>>>>> 625c671baea434b14e090e6fb7ac0646826d3727
